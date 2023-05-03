@@ -1,0 +1,118 @@
+.uber {
+  background-color: black;
+  color: white;
+  border: none;
+  height: 40px;
+  width: 110px;
+  font-size: 11px;
+  cursor: pointer;
+}
+
+.amazon-button {
+  background-color: rgb(255, 216, 20);
+  color: black;
+  border: none;
+  height: 30px;
+  width: 150px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.github {
+  background-color: rgb(46, 164, 79);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  height: 40px;
+  width: 90px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.bootstrap-start {
+  background-color: rgb(121, 82, 179);
+  color: white;
+  border: none;
+  height: 40px;
+  width: 110px;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.bootstrap-download {
+  color: rgb(108, 117, 125);
+  border-color: rgb(108, 117, 125);
+  border-width: 1px;
+  border-style: solid;
+  height: 40px;
+  width: 100px;
+  border-radius: 4px;
+  font-weight: bold;
+  margin-left: 6px;
+  cursor: pointer;
+}
+
+.linkedin-apply {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  height: 40px;
+  width: 240px;
+  border-radius: 20px;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.linkedin-save {
+  background-color: white;
+  color: rgb(10, 102, 194);
+  border-color: rgb(10, 102, 194);
+  border-width: 1px;
+  border-style: solid;
+  height: 40px;
+  width: 80px;
+  border-radius: 20px;
+  font-size: 15px;
+  font-weight: bold;
+  margin-left: 8px;
+  cursor: pointer;
+}
+
+.amazon {
+  color: rgb(0, 113, 133);
+}
+
+.nike {
+  color: black;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.stock {
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+}
+
+.cart {
+  background-color: rgb(249, 217, 76);
+  color: black;
+  border: none;
+  height: 30px;
+  width: 110px;
+  border-radius: 15px;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
+.buy {
+  background-color: rgb(255, 164, 28);
+  color: black;
+  border: none;
+  height: 30px;
+  width: 110px;
+  border-radius: 15px;
+  cursor: pointer;
+}

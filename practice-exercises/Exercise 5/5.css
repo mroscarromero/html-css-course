@@ -1,0 +1,189 @@
+.tahoma {
+  font-family: Tahoma;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.deals {
+  font-family: Arial;
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.sales {
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: italic;
+  color: rgb(228, 126, 126);
+  margin-top: 0;
+}
+
+.course-title {
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 3px;
+}
+
+.course-goal {
+  font-family: Verdana;
+  font-size: 13px;
+  color: gray;
+  margin-top: 0;
+}
+
+.course-description {
+  font-family: Verdana;
+  font-size: 13px;
+  width: 250px;
+}
+
+.course-btn {
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
+  font-size: 12px;
+  font-family: Verdana;
+}
+
+.shop {
+  font-family: Arial;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 12px;
+}
+
+.apple {
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.learn {
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: bold;
+  color: rgb(121, 121, 228);
+  text-align: center;
+  margin-top: 0;
+}
+
+.new {
+  font-family: Arial;
+  font-size: 10px;
+  font-weight: bold;
+  color: rgb(228, 99, 99);
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.macbook {
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.super {
+  font-family: Arial;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.from {
+  font-family: Arial;
+  font-size: 11px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.buy {
+  background-color: rgb(42, 84, 221);
+  color: white;
+  font-family: Arial;
+  font-size: 12px;
+  text-align: center;
+  border: none;
+  border-radius: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.price {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 32px;
+}
+
+.currency {
+  font-family: Arial;
+  font-size: 16px;
+  color: rgb(100, 100, 100);
+}
+
+.change {
+  font-family: Arial;
+  color: rgb(24, 128, 56);
+  margin-bottom: 8px;
+}
+
+.after-hours {
+  font-family: Arial;
+  color: rgb(100, 100, 100);
+}
+
+.after-hours-change {
+  font-family: Arial;
+  color: rgb(235, 39, 39);
+}
+
+.tweet-header {
+  font-family: Arial;
+  font-size: 18px;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.tweet-author {
+  font-weight: bold;
+}
+
+.tweet-info {
+  color: rgb(100, 100, 100);
+}
+
+.tweet {
+  font-family: Arial;
+  font-size: 18px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  width: 600px;
+  line-height: 25px;
+}
+
+.twitter-handle {
+  color: rgb(29, 155, 240);
+}
